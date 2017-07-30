@@ -32,3 +32,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Resources\AddOns
+Resources\Models
+Resources\Animations
+Resources\AudioSources
+Resources\steamVR
+NadeTest\Nade\BasicVRHands
+BulletXNA
+MMD4Mecanim
+PostProcessing
