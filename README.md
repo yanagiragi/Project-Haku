@@ -6,7 +6,7 @@ Waifu Simulator
 
 ## <img src=./img/logo.png width=50px> <span style="margin: 10px">From Developers:</span>
     
-    這是我們 MPY 三人在 國立交通大學 擴充實境與虛擬實境 做出來的作品。
+    這是我們 MPY 三人在 國立交通大學 虛擬實境與擴充實境 做出來的作品。
     
     此 Repo 僅用來記錄一些與 Project Haku 有關的事物。
 
@@ -19,6 +19,11 @@ Waifu Simulator
 
 ## Previews:
 
+(img/ScreenShots/1.png)
+(img/ScreenShots/2.jpg)
+(img/ScreenShots/3.jpg)
+(img/ScreenShots/4.jpg)
+(img/ScreenShots/5.jpg)
 
 ## Miscellaneous: 
 
@@ -30,7 +35,7 @@ Waifu Simulator
 
 - Final Presentations: [期末發表簡報](/pdf/Final%20Presentation.pdf)
 
-- Developments Talk: [期末分享](/pdf/Project%20Haku%20Development.pdf)
+- Developments Talk: [期末分享Talk簡報](/pdf/Project%20Haku%20Development.pdf)
 
 ## Developers:
 
