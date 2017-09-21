@@ -2,7 +2,7 @@
 
 Waifu Simulator
 
-<hr />
+
 
 ## <img src=./img/logo.png width=50px> <span style="margin: 10px">From Developers:</span>
     
@@ -14,7 +14,7 @@ Waifu Simulator
 
     如果對遊戲有興趣想要遊玩，請寄信給 此 Repo 的作者 :)
 
-<hr />
+
 
 ## Previews:
 
