@@ -13,6 +13,7 @@ Waifu Simulator
     這是我們第一次嘗試做 Vive 的作品，希望您會喜歡。
 
     如果對遊戲有興趣想要遊玩，請寄信給 此 Repo 的作者 :)
+    
 
 <br />
 
@@ -29,3 +30,16 @@ Waifu Simulator
 
 - Developments Talk: [期末分享](/pdf/Project%20Haku%20Development.pdf)
 
+## Developers:
+
+- @Maybo
+
+- [@po-hsiang](https://github.com/po-hsiang)
+
+- [@yanagiragi](https://github.com/yanagiragi)
+
+## Copyrights
+
+- 基於考慮，將可能有版權疑慮的文件都加到.gitignore了，請自行去觀看。
+
+- 另外，本人及本團隊不擁有 ProjectHaku_MPY_Version9.9/Assets/Resources/Textures 下素材的版權，大部分素材皆來自Unity Assets Store及網路。
