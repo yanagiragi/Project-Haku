@@ -22,6 +22,8 @@ Waifu Simulator
 
 ## Miscellaneous: 
 
+- Dynamic Wallpaper: [動態桌布](https://github.com/yanagiragi/Project-Haku-Desktop)
+
 - Devs Log: [開發Log](https://github.com/yanagiragi/ProjectHaku_UpdateList)
 
 - Posters: [海報](/pdf/Haku%20Poster.pdf)
