@@ -19,11 +19,13 @@ Waifu Simulator
 
 ## Previews:
 
-(img/ScreenShots/1.png)
-(img/ScreenShots/2.jpg)
-(img/ScreenShots/3.jpg)
-(img/ScreenShots/4.jpg)
-(img/ScreenShots/5.jpg)
+![](img/ScreenShots/2.jpg)
+
+![](img/ScreenShots/3.jpg)
+
+![](img/ScreenShots/4.jpg)
+
+![](img/ScreenShots/1.png)
 
 ## Miscellaneous: 
 
