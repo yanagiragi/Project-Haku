@@ -17,6 +17,9 @@ Waifu Simulator
 
 <br />
 
+
+## View our [Trailer](https://www.youtube.com/watch?v=Vj7PAP1cIOU) on Youtube!
+
 ## Previews:
 
 ![](img/ScreenShots/2.jpg)
@@ -31,6 +34,12 @@ Waifu Simulator
 
 - Dynamic Wallpaper: [動態桌布](https://github.com/yanagiragi/Project-Haku-Desktop)
 
+- Nade Simulator: [摸摸 Haku 的頭](https://www.youtube.com/watch?v=V1dpIXxIdb8)
+
+- Bad Ending: [Bad End 結局](https://www.youtube.com/watch?v=D1lnX2RnciM)
+
+- Special Ending: [特殊結局](https://www.youtube.com/watch?v=oj4GpHLmK6Y)
+
 - Devs Log: [開發Log](https://github.com/yanagiragi/ProjectHaku_UpdateList)
 
 - Posters: [海報](/pdf/Haku%20Poster.pdf)
@@ -38,6 +47,14 @@ Waifu Simulator
 - Final Presentations: [期末發表簡報](/pdf/Final%20Presentation.pdf)
 
 - Developments Talk: [期末分享Talk簡報](/pdf/Project%20Haku%20Development.pdf)
+
+- Tracking Chair Development: 
+
+    - [結合椅子位置控制的VR體驗 Ver1.2](https://www.youtube.com/watch?v=k1UfKd3QSJs)
+    
+    - [結合椅子位置控制的VR體驗 Ver1.4](https://www.youtube.com/watch?v=B4Py3Erextg)
+    
+    - [更多資訊](https://yanagiragi.wordpress.com/2017/03/18/%E8%88%87%E8%80%81%E5%A9%86%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%A4%95%E9%99%BD-in-vive/)
 
 ## Developers:
 
