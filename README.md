@@ -48,7 +48,7 @@ Waifu Simulator
 
 - Developments Talk @ NCTU: [期末分享Talk簡報](/pdf/Project%20Haku%20Development.pdf)
 
-- Developments Talk @ TechCCU: [TechCCU 2017 Talk](pdf/Project_Haku%20TechCCU.pdf)
+- Developments Talk @ TechCCU: [TechCCU 2017 Talk](pdf/Project_Haku_TechCCU.pdf)
 
 - Tracking Chair Development: 
 
