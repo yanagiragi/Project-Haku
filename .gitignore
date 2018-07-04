@@ -33,12 +33,13 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-Resources\AddOns
-Resources\Models
-Resources\Animations
-Resources\AudioSources
-Resources\steamVR
-NadeTest\Nade\BasicVRHands
+AddOns
+Models
+Animations
+AudioSources
+steamVR
+_NadeTest\Nade\BasicVRHands
 BulletXNA
 MMD4Mecanim
 PostProcessing
+*.exr
